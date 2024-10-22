@@ -1,4 +1,4 @@
-module github.com/almostinf/computational_mathematics
+module github.com/AlimG11/Chislaki
 
 go 1.19
 

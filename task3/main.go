@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/almostinf/computational_mathematics/task3/newton"
+	"github.com/AlimG11/Chislaki/newton"
 )
 
 func main() {

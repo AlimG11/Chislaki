@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/almostinf/computational_mathematics/task4/integral"
+	"github.com/AlimG11/Chislaki/integral"
 )
 
 const (

@@ -5,7 +5,7 @@ import (
 	"math"
 	"time"
 
-	"github.com/almostinf/computational_mathematics/task2/matrix"
+	"github.com/AlimG11/Chislaki/matrix"
 )
 
 var Eps float64 = 1e-14

@@ -5,7 +5,7 @@ import (
 	"math"
 	"sort"
 
-	"github.com/almostinf/computational_mathematics/task2/matrix"
+	"github.com/AlimG11/Chislaki/matrix"
 )
 
 func getMoments(a, alpha, z1, z2 float64) []float64 {

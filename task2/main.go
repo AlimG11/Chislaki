@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/almostinf/computational_mathematics/task2/matrix"
+	"github.com/AlimG11/Chislaki/matrix"
 )
 
 const N int = 5
